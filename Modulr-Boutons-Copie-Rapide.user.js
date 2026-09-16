@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Modulr – Boutons Copie Rapide
 // @namespace    https://github.com/BiggerThanTheMall/tampermonkey-ltoa
-// @version      2.0.0
+// @version      2.0.1
 // @description  Boutons de copie discrets : email, téléphone, adresse, devis, contrats
 // @author       LTOA
 // @match        https://courtage.modulr.fr/fr/scripts/clients/clients_card.php*
@@ -9,8 +9,8 @@
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
 
-// @updateURL    https://raw.githubusercontent.com/BiggerThanTheMall/tampermonkey-ltoa/main/Modulr-Boutons-Copie-Rapide.user.js
-// @downloadURL  https://raw.githubusercontent.com/BiggerThanTheMall/tampermonkey-ltoa/main/Modulr-Boutons-Copie-Rapide.user.js
+// @updateURL    https://raw.githubusercontent.com/BiggerThanTheMall/ModulR-Boutons-Copie/main/Modulr-Boutons-Copie-Rapide.user.js
+// @downloadURL  https://raw.githubusercontent.com/BiggerThanTheMall/ModulR-Boutons-Copie/main/Modulr-Boutons-Copie-Rapide.user.js
 // ==/UserScript==
 
 (function() {
